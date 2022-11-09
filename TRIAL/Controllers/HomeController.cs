@@ -10,7 +10,7 @@ namespace TRIAL.Controllers
     {
         public ActionResult Index ( )
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "hello Page";
 
             return View ();
         }
